@@ -23,6 +23,15 @@ nav {
 .nav-link {
 font-family: 'Anton', sans-serif;
 font-size: 2em;
+<<<<<<< Updated upstream
+=======
+}
+
+.font-anton {
+    font-family: 'Anton', sans-serif;
+    font-size: 1.5em;
+    color: #464440;
+>>>>>>> Stashed changes
 }
 
 footer {
