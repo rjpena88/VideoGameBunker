@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Russo+One');
+
+
+.background {
+    background-image: url("images/bg.jpg");
+}
+.box1 {
+    padding: 30px;
+    text-align: center;
+    height: 100%;
+    color: white;
+    border: 5px solid #D5D3CA;
+    background-color: #464440;
+    font-family: 'Anton', sans-serif;
+    font-size: 2em;
+
+}
+
+
+.box2 {
+    padding: 30px;
+    text-align: center;
+    height: 100%;
+    color: white;
+    border: 5px solid #D5D3CA;
+    background-color: #464440;
+    font-family: 'Anton', sans-serif;
+    font-size: 2em;
+}
+
+.box-wrapper {
+    border: 5px solid #D5D3CA;
+
+}
+
+/* IMAGE sizing  */
+.img-size{
+    width: 100%;
+    height: auto;
+}
+
+.container {
+    border: 5px solid black;
+}
+
+.img {
+    width: 500px;
+
+}
+.img {
+    width: 500px;
+}
+
+nav {
+   background-color: #D5D3CA;
+}
+
+.nav-link {
+font-family: 'Anton', sans-serif;
+font-size: 2em;
+color: #464440;
+}
+
+a:hover {
+    color: black;
+}
+/* footer {
+   background-color: #D5D3CA;
+   font-size: 50px;
+   text-align: center;
+   color: #464440
+} */
+
+/* START of NEW CSS */
+
+@import url("https://fonts.googleapis.com/css?family=Anton%7CRusso+One");
+
+body {
+    background-image: url(images/bg.jpg);
+}
+
+nav {
+    background-color: #D5D3CA;
+    background: rgba(213, 211, 202, 0.7);
+}
+.cart-bg {
+    background: rgba(70, 68, 64, 0.7);
+}
+
+.font-russo {
+    font-family: ‘Russo One’, sans-serif;
+}
+
+.nav-link {
+font-family: 'Anton', sans-serif;
+font-size: 2em;
+
+}
+
+.font-anton {
+    font-family: 'Anton', sans-serif;
+    font-size: 1.5em;
+    color: #464440;
+}
+footer {
+    background-color: #D5D3CA;
+    font-size: 50px;
+    flex-flow: row nowrap;
+    text-align: center;
+    color: #464440
+}
+
+a {
+    color: #464440;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
