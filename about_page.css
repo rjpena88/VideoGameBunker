@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Russo+One');
+
+
+body {
+background-image: url("images/bg.jpg");
+height: 100vh;
+}
+
+.aboutInfo {
+border: 2px solid black;
+font-family: 'Anton', sans-serif;
+font-size: 2em;
+background-color: #464440;
+color: #D5D3CA;
+padding: 20px;
+}
+
+nav {
+    background-color: #D5D3CA;
+}
+
+.nav-link {
+font-family: 'Anton', sans-serif;
+font-size: 2em;
+color: #464440;
+}
+
+footer {
+    background-color: #D5D3CA;
+    font-size: 50px;
+    flex-flow: row nowrap;
+    text-align: center;
+    color: #464440
+}
