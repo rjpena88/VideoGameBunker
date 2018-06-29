@@ -17,12 +17,12 @@ padding: 20px;
 
 nav {
     background-color: #D5D3CA;
+    background: rgba(213, 211, 202, 0.7);
 }
 
 .nav-link {
 font-family: 'Anton', sans-serif;
 font-size: 2em;
-color: #464440;
 }
 
 footer {
@@ -31,4 +31,11 @@ footer {
     flex-flow: row nowrap;
     text-align: center;
     color: #464440
+}
+
+img {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
 }
