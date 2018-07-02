@@ -1,18 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Anton|Russo+One');
-
-
 body {
-background-image: url("images/bg.jpg");
-height: 100vh;
+    background-image: url("images/bg.jpg");
+    height: 100vh;
 }
 
 .aboutInfo {
-border: 2px solid black;
-font-family: 'Anton', sans-serif;
-font-size: 2em;
-background-color: #464440;
-color: #D5D3CA;
-padding: 20px;
+    border: 2px solid black;
+    font-family: 'Anton', sans-serif;
+    font-size: 2em;
+    background-color: #464440;
+    color: #D5D3CA;
+    padding: 20px;
 }
 
 nav {
@@ -21,17 +19,8 @@ nav {
 }
 
 .nav-link {
-font-family: 'Anton', sans-serif;
-font-size: 2em;
-<<<<<<< Updated upstream
-=======
-}
-
-.font-anton {
     font-family: 'Anton', sans-serif;
-    font-size: 1.5em;
-    color: #464440;
->>>>>>> Stashed changes
+    font-size: 2em;
 }
 
 footer {
@@ -42,9 +31,22 @@ footer {
     color: #464440
 }
 
-img {
+img.carousel {
     margin: auto;
     width: 50%;
     padding: 10px;
 }
+img.nav-logo {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+
+a {
+    color: #464440;
+}
+.font-anton {
+    font-family: 'Anton', sans-serif;
+    font-size: 1.5em;
+    color: #464440;
 }

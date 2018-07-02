@@ -41,7 +41,7 @@ a {
     color: #464440;
 }
 
-img {
+img.nav-logo {
     max-width: 100%;
     height: auto;
     width: auto\9; /* ie8 */
