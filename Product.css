@@ -70,7 +70,9 @@ font-size: 2em;
 a {
     color: #464440;
 }
-
+a:hover {
+    color: black;
+}
 img {
     max-width: 100%;
     height: auto;

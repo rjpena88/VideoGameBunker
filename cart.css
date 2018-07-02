@@ -41,7 +41,9 @@ footer {
 a {
     color: #464440;
 }
-
+a:hover {
+    color: black;
+}
 img.nav-logo {
     max-width: 100%;
     height: auto;

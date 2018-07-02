@@ -45,6 +45,9 @@ img.nav-logo {
 a {
     color: #464440;
 }
+a:hover {
+    color: black;
+}
 .font-anton {
     font-family: 'Anton', sans-serif;
     font-size: 1.5em;

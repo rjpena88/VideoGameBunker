@@ -3,6 +3,7 @@
 
 .background {
     background-image: url("images/bg.jpg");
+    background-size: contain;
 }
 .box1 {
     padding: 30px;
@@ -71,9 +72,7 @@ body {
 nav {
     background-color: #D5D3CA;
     background: rgba(213, 211, 202, 0.7);
-}
-.cart-bg {
-    background: rgba(70, 68, 64, 0.7);
+
 }
 
 .font-russo {
@@ -102,6 +101,8 @@ footer {
 a {
     color: #464440;
 }
+a:hover {
+    color: black;
 
 img {
     max-width: 100%;
