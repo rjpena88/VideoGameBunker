@@ -1,5 +1,5 @@
 body {
-    background: url("https://raw.githubusercontent.com/rjpena88/VideoGameBunker/master/images/bg.jpg") no-repeat center center fixed;
+    background: \images\bg.jpg no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
